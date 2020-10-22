@@ -35,6 +35,10 @@ export DB_DATABASE=
 
 And that's it. Start writing tests.
 
+## Related projects
+
+- Common Test Steps with Taiko for browser testing (https://github.com/softrams/gauge-taiko-steps)
+
 ## Thanks to these amazing projects
 
 - Gauge Framework (https://gauge.org/)
