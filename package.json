@@ -1,0 +1,29 @@
+{
+  "name": "@softrams/gauge-taiko-steps-mysql",
+  "version": "0.0.1",
+  "description": "Implementation of common test steps with Taiko driver for writing tests with Gauge framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softrams/gauge-taiko-steps-mysql.git"
+  },
+  "keywords": [
+    "gauge",
+    "taiko",
+    "testing",
+    "bdd"
+  ],
+  "author": "Murali (murali@softrams.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/softrams/gauge-taiko-steps-mysql/issues"
+  },
+  "homepage": "https://github.com/softrams/gauge-taiko-steps-mysql#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {}
+}
