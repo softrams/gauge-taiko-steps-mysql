@@ -7,7 +7,17 @@ This is built as a sample and include some basic data integrity checks. Need to 
 
 ## How to use it
 
-Installl this npm package to your Gauge js project. And update STEP_IMPL_DIR in ./env/default/js.properties to include
+Installl this npm package to your Gauge js project.
+
+```bash
+# npm
+npm i @softrams/gauge-taiko-steps-mysql
+
+# yarn
+yarn add @softrams/gauge-taiko-steps-mysql
+```
+
+Update STEP_IMPL_DIR in ./env/default/js.properties to include
 steps implemenation from this package.
 
 ```bash
